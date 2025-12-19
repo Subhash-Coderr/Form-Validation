@@ -1,0 +1,62 @@
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20220205/pngtree-user-login-on-digital-screen-glow-user-login-spark-photo-photo-image_29066922.jpg);
+}
+
+section {
+  width: auto;
+  height: auto;
+  margin-top: 50px;
+  text-align: center;
+
+
+}
+
+#no1 {
+  height: 30px;
+  border-radius: 20px;
+  margin: 15px;
+}
+
+#no2 {
+  height: 30px;
+  border-radius: 20px;
+  margin: 15px;
+}
+
+#no3 {
+  height: 30px;
+  border-radius: 20px;
+  margin: 15px;
+}
+
+#no4 {
+  height: 30px;
+  border-radius: 20px;
+  margin: 15px;
+}
+
+#form {
+  border: 1px solid rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-left: 500px;
+  margin-right: 470px;
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/431/537/small/modern-eleganct-blue-background-free-vector.jpg);
+}
+
+#btn {
+  background-color: rgb(160, 201, 255);
+  margin-top: 30px;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+
+}
+
+a {
+  text-decoration: none;
+  margin-bottom: 200px;
+}

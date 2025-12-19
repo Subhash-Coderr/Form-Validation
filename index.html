@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Validation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+  <section id="form">
+    <h1>Login Form</h1>
+    <form onsubmit="return data()">
+
+      <input type="text" placeholder="  Your First Name" size="25" id="no1" />
+
+      <input type="text" placeholder="Your Last Name" size="25" id="no2" />
+
+      <input type="email" placeholder="Email" size="25" id="no3" />
+
+      <input type="password" placeholder="Password" size="25" id="no4" />
+      <br>
+      <button id="btn">Login</button>
+      <br>
+      <a href="javascript:void(0)">Forgot Password</a>
+    </form>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
